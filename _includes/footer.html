@@ -5,11 +5,16 @@
       <div class="row">
         <div class="footer-col col-md-4">
           <h3>{{ site.footer.location }}</h3>
-          <p>
-            {% for adress in site.address %}
-            {{ adress.line }} <br>
-            {% endfor %}
+          <p style="text-align: justify;">
+            We are deeply committed to giving back to the community. 
+            We believe in the power of football to inspire and bring people together. 
+            Our community initiatives include youth development programs, local outreach activities, 
+            and partnerships with schools and non-profit organizations.
           </p>
+        </div>
+        <div class="footer-col col-md-4">
+          <h3>{{ site.footer.credits }}</h3>
+          <p>{{ site.credits }}</p>
         </div>
         <div class="footer-col col-md-4">
           <h3>{{ site.footer.social }}</h3>
@@ -21,10 +26,6 @@
             </li>
             {% endfor %}
           </ul>
-        </div>
-        <div class="footer-col col-md-4">
-          <h3>{{ site.footer.credits }}</h3>
-          <p>{{ site.credits }}</p>
         </div>
       </div>
     </div>

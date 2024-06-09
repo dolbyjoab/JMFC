@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 7
+date: 2014-07-15
+img: sample.png
+alt: image-alt
+project-date: June 2024
+client: 
+category: Player, Central back, Left back
+description: Brainstorming Billion Dollar Ideas, he beleives that sleep is for the unambitious. He is building an empire, one class at a time.
+---

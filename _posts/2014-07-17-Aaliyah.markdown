@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: sample.png
+alt: image-alt
+project-date: June 2024
+client: 
+category: Co-funder
+description: Dedicated dental student. Deeply loves science and is passionate about exploring the world; also loves connecting with people on X. Curious and enthusiastic.
+---

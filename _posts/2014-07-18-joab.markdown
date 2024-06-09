@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: sample.png
+alt: image-alt
+project-date: June 2024
+client: 
+category: President, Funder
+description: He builds IT systems to solve problems. Loves planes (YouTube!), movies, and X (formerly Twitter). Travel, learning, and meeting people are his jam! Friendly face here :)
+
+---

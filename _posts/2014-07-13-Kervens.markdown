@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 8
+date: 2014-07-15
+img: sample.png
+alt: image-alt
+project-date: June 2024
+client: 
+category: Player, Midfielder
+description: By day, he unravels the mind's mysteries with a passion for psychology. But when the suit comes off, you might find him on the soccer field or hosting Dokodenn.
+---
