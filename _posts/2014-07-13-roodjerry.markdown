@@ -2,7 +2,7 @@
 layout: default
 modal-id: 9
 date: 2014-07-15
-img: sample.png
+img: roodjery.png
 alt: image-alt
 project-date: June 2024
 client: 
