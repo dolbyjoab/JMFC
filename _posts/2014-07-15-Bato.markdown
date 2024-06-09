@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: sample.png
+alt: image-alt
+project-date: June 2024
+client: 
+category: Player, Midfielder
+description: A dedicated truck driver and former nursing student at Broward College. He previously played as a midfielder for Miramar FC and Los Rey de Lima. His love for soccer remains a strong passion.
+---

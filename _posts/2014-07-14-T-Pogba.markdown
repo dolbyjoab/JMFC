@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: sample.png
+alt: image-alt
+project-date: June 2024
+client: 
+category: Player, Central Defender
+description: Former first responder at the Athletic Club, student at USF, central defender, football is his life.
+---

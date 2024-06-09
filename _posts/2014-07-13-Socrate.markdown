@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: sample.png
+alt: image-alt
+project-date: June 2024
+client: 
+category: Player, Midfielder
+description: Retired chelsea player. NCAA best player of the year. Golden ball winner, 8 times best central midfielders.
+---

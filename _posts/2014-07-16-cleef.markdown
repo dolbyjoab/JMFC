@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: sample.png
+alt: image-alt
+project-date: June 2024
+client: 
+category: Player, Foward, Midfielder
+description: Ex-aircraft technician and a retired college player from Georgian Court University (GCU). He is a former All-American and a varsity letter holder.
+---
