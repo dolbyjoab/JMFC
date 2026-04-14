@@ -19,6 +19,16 @@
 
 <!-- Custom Theme JavaScript -->
 <script src="{{ '/js/freelancer.js' | relative_url }}"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var brand = document.querySelector('.navbar-brand');
+    if (!brand) return;
+    var homePath = '{{ '/' | relative_url }}';
+    if (window.location.pathname !== homePath && brand.getAttribute('href') === homePath) {
+      brand.classList.add('active');
+    }
+  });
+</script>
 
 {% if site.contact == "disqus" %}
 <!-- Disqus Stuff -->

@@ -11,11 +11,11 @@ body {
   color: #162442;
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
-  line-height: 1.8;
+  line-height: 1.95;
 }
 
 p {
-  font-size: 1.15rem;
+  font-size: 1.12rem;
   color: #4f607f;
   margin-bottom: 1.5rem;
 }
@@ -50,16 +50,16 @@ h6 {
 }
 
 h1 {
-  font-size: 5.4rem;
+  font-size: 3.6rem;
 }
 
 h2 {
-  font-size: 3.8rem;
+  font-size: 2.4rem;
   margin-bottom: 0.85rem;
 }
 
 h3 {
-  font-size: 2.1rem;
+  font-size: 1.5rem;
 }
 
 hr.star-primary {
@@ -93,19 +93,19 @@ header {
 
 .name {
   display: block;
-  font-size: 6.2rem;
+  font-size: 4.2rem;
   font-weight: 800;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.03em;
   margin-bottom: 1rem;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .hero-tag {
-  font-size: 2.3rem;
+  font-size: 1.5rem;
   max-width: 760px;
   margin: 0 auto 2rem;
   color: rgba(255,255,255,0.95);
-  line-height: 1.4;
+  line-height: 1.6;
 }
 
 .hero-buttons {
@@ -188,13 +188,17 @@ header {
 }
 
 .navbar-default .navbar-nav > li > a {
-  font-size: 1.22rem;
+  font-size: 1.25rem;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #f5b5b1;
+}
+
+.navbar-default .navbar-brand.active {
+  color: #d92e35;
 }
 
 .navbar-default .navbar-toggle {
@@ -323,17 +327,65 @@ section {
 }
 
 .player-position {
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  font-size: 1.02rem;
-  color: #a59f8b;
+  text-transform: none;
+  letter-spacing: 0.04em;
+  font-size: 1.2rem;
+  color: #5f6e8f;
   margin-bottom: 0.9rem;
 }
 
 .player-meta {
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin-bottom: 1.25rem;
   color: #5f6e8f;
+}
+
+..player-page-content {
+  padding: 70px 0 90px;
+}
+
+.player-page-content .col-md-10 {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.player-page-content p,
+.player-page-content li,
+.player-page-content blockquote {
+  font-size: 1.35rem;
+  line-height: 2;
+  color: #3f4b6a;
+}
+
+.player-page-content h1,
+.player-page-content h2,
+.player-page-content h3,
+.player-page-content h4,
+.player-page-content h5,
+.player-page-content h6 {
+  line-height: 1.2;
+}
+
+.player-page-content h1 {
+  font-size: 2.8rem;
+}
+
+.player-page-content h2 {
+  font-size: 2.2rem;
+}
+
+.player-page-content h3 {
+  font-size: 1.65rem;
+}
+
+.player-page-content h4 {
+  font-size: 1.4rem;
+}
+
+.player-page-content .player-goal,
+.player-page-content .player-position,
+.player-page-content .player-meta-list {
+  font-size: 1.3rem;
 }
 
 #leadership {
@@ -355,13 +407,15 @@ section {
 .about-box h3,
 .value-card h4 {
   margin-bottom: 1rem;
-  font-size: 1.4rem;
+  font-size: 1.45rem;
 }
 
 .feature-list {
   padding-left: 1.1rem;
   margin-top: 1rem;
   color: #5f6e8f;
+  font-size: 1.15rem;
+  line-height: 1.9;
 }
 
 .feature-list li {
@@ -377,12 +431,12 @@ section {
 }
 
 .value-card h4 {
-  font-size: 1.35rem;
+  font-size: 1.4rem;
 }
 
 .value-card p {
   margin-bottom: 0;
-  font-size: 1rem;
+  font-size: 1.15rem;
   color: #5d6b86;
 }
 
@@ -456,7 +510,7 @@ footer .footer-below .col-lg-12 {
 
 .contact-card p {
   margin-bottom: 0;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 .contact-form {
@@ -484,7 +538,7 @@ footer .footer-below .col-lg-12 {
   border: 1px solid rgba(20, 33, 71, 0.16);
   border-radius: 0.85rem;
   background: #f8fbff;
-  font-size: 1rem;
+  font-size: 1.05rem;
   color: #162442;
 }
 
@@ -520,15 +574,15 @@ footer .footer-below .col-lg-12 {
   }
 
   .name {
-    font-size: 2.7rem;
+    font-size: 2.6rem;
   }
 
   .hero-tag {
-    font-size: 1.12rem;
+    font-size: 1.25rem;
   }
 
   .navbar-default .navbar-brand {
-    font-size: 1.15rem;
+    font-size: 1.05rem;
   }
 
   .navbar-default .navbar-nav > li > a {
