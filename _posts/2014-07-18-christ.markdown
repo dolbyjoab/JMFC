@@ -12,7 +12,7 @@ stats: "PAC 82 · SHO 74 · PASS 71 · DRI 89 · PHY 70"
 goal: "Bridge the gap between defense and attack with power and tactical precision."
 ---
 
-## About Kervens
+## About Christ
 A powerhouse on the flanks, Christ combines physical strength with a high football IQ. At 5'11", he dominates his side of the pitch, proving that a winger can be both a creator and a physical enforcer.
 
 ### Club role
