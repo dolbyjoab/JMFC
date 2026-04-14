@@ -1,11 +1,11 @@
 # Site settings
-title: Jolly Minou FC
+title: JollyMinou FC
 email: jollyminoufc@gmail.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "where passion meets performance."
-keywords: "your keywords, separated by commas"
-skills: "Where passion meets performance."
-meta_author: LastName FirstName
+url: https://jollyminoufc.com
+description: "JollyMinou FC is a Haitian football club built for community, competition, and celebration."
+keywords: "football, soccer, club, Haiti, community"
+skills: "Live the game. Lead the club. Love the journey."
+meta_author: JollyMinou FC Team
 
 # Google webmaster tools
 google_verify:
@@ -25,17 +25,17 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: c6c8d1 #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 0d1e3a
+  primary-rgb: "13,30,58"
+  secondary: e1b12c
+  secondary-dark: 9a6d1f
 
 # Footer settings
 footer:
-  copyright: JMFC
-  location: Community Engagement
-  credits: Goals
-  social: Our social
+  copyright: JollyMinou FC
+  location: FL, USA
+  credits: Community & Champions
+  social: Follow us
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -61,11 +61,4 @@ credits: 'Our long-term goals include expanding our fan base, achieving consiste
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-#for posts
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: ""
+baseurl: ""

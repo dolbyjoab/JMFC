@@ -1,30 +1,33 @@
 <!-- Footer -->
-<footer class="text-center">
+<footer>
   <div class="footer-above">
     <div class="container">
       <div class="row">
         <div class="footer-col col-md-4">
-          <h3>{{ site.footer.location }}</h3>
-          <p style="text-align: justify;">
-            We are deeply committed to giving back to the community. 
-            We believe in the power of football to inspire and bring people together. 
-            Our community initiatives include youth development programs, local outreach activities, 
-            and partnerships with schools and non-profit organizations.
-          </p>
+          <h3>Club HQ</h3>
+          <p>FL, USA</p>
         </div>
         <div class="footer-col col-md-4">
-          <h3>{{ site.footer.credits }}</h3>
-          <p>{{ site.credits }}</p>
+          <h3>Our mission</h3>
+          <p>Inspire the next generation of Haitian football talent while building a winning club culture.</p>
         </div>
         <div class="footer-col col-md-4">
-          <h3>{{ site.footer.social }}</h3>
+          <h3>Follow us</h3>
           <ul class="list-inline">
             {% for network in site.social %}
             <li>
-              <a href="{{ network.url }}" class="btn-social btn-outline"><i
-                  class="fa-brands fa-fw fa-{{ network.title }}"></i></a>
+              <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa-brands fa-fw fa-{{ network.title }}"></i></a>
             </li>
             {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="row footer-links-row">
+        <div class="col-md-12 text-center">
+          <ul class="list-inline footer-links">
+            <li><a href="{{ '/careers/' | relative_url }}">Careers</a></li>
+            <li><a href="{{ '/privacy/' | relative_url }}">Privacy</a></li>
+            <li><a href="{{ '/policies/' | relative_url }}">Policies</a></li>
           </ul>
         </div>
       </div>
@@ -34,7 +37,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
+          Copyright &copy; {{ site.footer.copyright }} {{ site.time | date: '%Y' }}
         </div>
       </div>
     </div>

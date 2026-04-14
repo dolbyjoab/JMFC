@@ -1,0 +1,19 @@
+current directory: /Users/jo/GIT/JMFC/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/jo/GIT/JMFC/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make -j11 DESTDIR\= sitearchdir\=./.gem.20260413-7208-fjn6gc sitelibdir\=./.gem.20260413-7208-fjn6gc clean
+
+current directory: /Users/jo/GIT/JMFC/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make -j11 DESTDIR\= sitearchdir\=./.gem.20260413-7208-fjn6gc sitelibdir\=./.gem.20260413-7208-fjn6gc
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.6.1/lib' not found
+
+current directory: /Users/jo/GIT/JMFC/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make -j11 DESTDIR\= sitearchdir\=./.gem.20260413-7208-fjn6gc sitelibdir\=./.gem.20260413-7208-fjn6gc install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260413-7208-fjn6gc/racc
+
+current directory: /Users/jo/GIT/JMFC/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260413-7208-fjn6gc sitelibdir\=./.gem.20260413-7208-fjn6gc clean

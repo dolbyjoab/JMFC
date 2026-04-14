@@ -1,11 +1,27 @@
 ---
-layout: default
-modal-id: 6
-date: 2014-07-15
-img: socrate.png
-alt: image-alt
-project-date: June 2024
-client: 
-category: Player, Midfielder
-description: Retired chelsea player. NCAA best player of the year. Golden ball winner, 8 times best central midfielders.
+layout: player
+title: Socrate
+permalink: /players/socrate/
+modal-id: 9
+date: 2026-04-13
+img: socrate.jpeg
+alt: Socrate
+number: 11
+position: WNG (Winger)
+stats: "PAC 87 · PAS 76 · SHO 83 · DRI 74 · Leadership 92"
+goal: "Direct the flow of play and orchestrate the team’s harmony on the wings."
 ---
+
+## About Socrate
+Socrates is the tactical heartbeat of Jolly Minou FC. He believes that intelligence and vision are the ultimate weapons on the pitch, often using his 5'9" frame and 87 Pace to outmaneuver opponents rather than simply outrunning them
+
+### Club role
+Socrates is the tactical architect who pulls the strings from the wide areas. He acts as the vital link between the midfield and the attack, ensuring that every transition is handled with precision and grace.
+- Playstyle: Tactical Architect / Wide Playmaker 
+- Key Strength: Game Tempo and Vision 
+- Specialty: Transition Orchestrator
+
+### Career highlights
+
+- The Intelligence Factor: Renowned for a high football IQ that allows him to dictate the pace of the match.
+- Playmaking Precision: A consistent provider of key passes and tactical stability for the frontline.

@@ -1,0 +1,26 @@
+---
+layout: player
+title: Christ
+permalink: /players/christ/
+modal-id: 5
+date: 2026-04-13
+img: christ.jpeg
+alt: Christ
+number: 22
+position: WNG (Winger)
+stats: "PAC 82 · SHO 74 · PASS 71 · DRI 89 · PHY 70"
+goal: "Bridge the gap between defense and attack with power and tactical precision."
+---
+
+## About Kervens
+A powerhouse on the flanks, Christ combines physical strength with a high football IQ. At 5'11", he dominates his side of the pitch, proving that a winger can be both a creator and a physical enforcer.
+
+### Club role
+Christ is the engine pulling the strings from the wide areas. He acts as a vital transition link, setting the tempo with his physical presence and ensuring the team stays in sync during high-pressure moments.
+- Playstyle: Power Winger / Midfield Anchor
+- Key Strength: Tactical Intelligence and Ball Shielding
+- Specialty: Transition Specialist
+
+### Career highlights
+- The Complete Footballer: Holds balanced ratings across pace, shooting, and passing, making him an indispensable all-around threat.
+- Limited Edition Status: Recognized as a rare talent within the Jolly Minou FC squad.

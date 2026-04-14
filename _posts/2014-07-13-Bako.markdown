@@ -1,11 +1,27 @@
 ---
-layout: default
-modal-id: 7
-date: 2014-07-15
-img: bako.png
-alt: image-alt
-project-date: June 2024
-client: 
-category: Player, Central back, Left back
-description: Brainstorming Billion Dollar Ideas, he beleives that sleep is for the unambitious. He is building an empire, one class at a time.
+layout: player
+title: Bako
+permalink: /players/bako/
+modal-id: 3
+date: 2026-04-13
+img: bako.jpeg
+alt: Noel Laurent in the team photo
+number: 21
+position: GK (Goalkeeper)
+stats: "PAC 90 · SHO 89 · DRI 92 · PAS 71 · PHY 82"
+goal: "Lead JollyMinou FC with energy, skill, and a champion's mindset."
 ---
+
+## About Bako
+Brainstorming Billion Dollar Ideas, he beleives that sleep is for the unambitious. He is building an empire, one class at a time.
+
+### Club role
+Bako is far from a traditional shot-stopper. As the team's 'Sweepeer-Keeper,' he combines elite athleticism with the technical skills of a striker. Known for his blistering pace to shut down breakaways and his clinical ability on set-pieces, Bako provides Jolly Minou FC with an extra layer of attack right from the back.
+
+- Playstyle: High-Line Aggressor
+- Key Strength: Counter-Attack Initiation
+- Specialty: Penalty & Free-Kick Taker
+
+### Career highlights
+- Built a reputation as a calm, creative presence in the goal
+- Regular provider of assists and clutch plays

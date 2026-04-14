@@ -1,0 +1,138 @@
+current directory: /Users/jo/GIT/JMFC/vendor/bundle/ruby/4.0.0/gems/nokogumbo-2.0.5/ext/nokogumbo
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+checking for whether -I/Users/jo/GIT/JMFC/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.19.2-arm64-darwin/ext/nokogiri is accepted as CFLAGS... yes
+checking for whether -I/Users/jo/GIT/JMFC/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.19.2-arm64-darwin/ext/nokogiri/include is accepted as CFLAGS... yes
+checking for whether -I/Users/jo/GIT/JMFC/vendor/bundle/ruby/4.0.0/gems/nokogiri-1.19.2-arm64-darwin/ext/nokogiri/include/libxml2 is accepted as CFLAGS... yes
+checking for libxml/tree.h... yes
+checking for nokogiri.h... yes
+creating Makefile
+
+current directory: /Users/jo/GIT/JMFC/vendor/bundle/ruby/4.0.0/gems/nokogumbo-2.0.5/ext/nokogumbo
+make -j11 DESTDIR\= sitearchdir\=./.gem.20260413-9087-bby1zf sitelibdir\=./.gem.20260413-9087-bby1zf clean
+
+current directory: /Users/jo/GIT/JMFC/vendor/bundle/ruby/4.0.0/gems/nokogumbo-2.0.5/ext/nokogumbo
+make -j11 DESTDIR\= sitearchdir\=./.gem.20260413-9087-bby1zf sitelibdir\=./.gem.20260413-9087-bby1zf
+compiling nokogumbo.c
+compiling ./../../gumbo-parser/src/ascii.c
+compiling ./../../gumbo-parser/src/attribute.c
+compiling ./../../gumbo-parser/src/char_ref.c
+compiling ./../../gumbo-parser/src/error.c
+compiling ./../../gumbo-parser/src/foreign_attrs.c
+compiling ./../../gumbo-parser/src/parser.c
+compiling ./../../gumbo-parser/src/string_buffer.c
+compiling ./../../gumbo-parser/src/string_piece.c
+compiling ./../../gumbo-parser/src/svg_attrs.c
+compiling ./../../gumbo-parser/src/svg_tags.c
+./../../gumbo-parser/src/error.c:99:20: warning: cast to smaller integer type 'GumboTag' from 'void *' [-Wvoid-pointer-to-enum-cast]
+   99 |     GumboTag tag = (GumboTag) error->tag_stack.data[i];
+      |                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+./../../gumbo-parser/src/parser.c:540:10: warning: cast to smaller integer type 'GumboInsertionMode' from 'void *' [-Wvoid-pointer-to-enum-cast]
+  540 |   return (GumboInsertionMode) modes->data[(modes->length - 1)];
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compiling ./../../gumbo-parser/src/tag.c
+compiling ./../../gumbo-parser/src/tag_lookup.c
+compiling ./../../gumbo-parser/src/token_buffer.c
+compiling ./../../gumbo-parser/src/tokenizer.c
+compiling ./../../gumbo-parser/src/utf8.c
+compiling ./../../gumbo-parser/src/util.c
+compiling ./../../gumbo-parser/src/vector.c
+1 warning generated.
+nokogumbo.c:492:10: warning: 'rb_data_object_wrap_warning' is deprecated: by TypedData [-Wdeprecated-declarations]
+  492 |   return Data_Wrap_Struct(rb_cData, parse_args_mark, RUBY_NEVER_FREE, args);
+      |          ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:202:5: note: expanded from macro 'Data_Wrap_Struct'
+  202 |     rb_data_object_wrap(                          \
+      |     ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:366:31: note: expanded from macro 'rb_data_object_wrap'
+  366 | #define rb_data_object_wrap   RUBY_MACRO_SELECT(rb_data_object_wrap_2, RUBY_UNTYPED_DATA_WARNING)
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:50:35: note: expanded from macro 'RUBY_MACRO_SELECT'
+   50 | #define RUBY_MACRO_SELECT(x, y)   RBIMPL_MACRO_SELECT(x, y)
+      |                                   ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:49:35: note: expanded from macro 'RBIMPL_MACRO_SELECT'
+   49 | #define RBIMPL_MACRO_SELECT(x, y) x ## y
+      |                                   ^
+<scratch space>:201:1: note: expanded from here
+  201 | rb_data_object_wrap_1
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:364:31: note: expanded from macro 'rb_data_object_wrap_1'
+  364 | #define rb_data_object_wrap_1 rb_data_object_wrap_warning
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:280:1: note: 'rb_data_object_wrap_warning' has been explicitly marked deprecated here
+  280 | RBIMPL_ATTRSET_UNTYPED_DATA_FUNC()
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:47:5: note: expanded from macro 'RBIMPL_ATTRSET_UNTYPED_DATA_FUNC'
+   47 |     RBIMPL_ATTR_DEPRECATED(("by TypedData"))
+      |     ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/attr/deprecated.h:36:53: note: expanded from macro 'RBIMPL_ATTR_DEPRECATED'
+   36 | # define RBIMPL_ATTR_DEPRECATED(msg) __attribute__((__deprecated__ msg))
+      |                                                     ^
+nokogumbo.c:492:27: error: use of undeclared identifier 'rb_cData'
+  492 |   return Data_Wrap_Struct(rb_cData, parse_args_mark, RUBY_NEVER_FREE, args);
+      |                           ^
+nokogumbo.c:498:3: warning: 'rb_data_object_get_warning' is deprecated: by TypedData [-Wdeprecated-declarations]
+  498 |   Data_Get_Struct(obj, ParseArgs, args);
+      |   ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:278:34: note: expanded from macro 'Data_Get_Struct'
+  278 |     ((sval) = RBIMPL_CAST((type*)rb_data_object_get(obj)))
+      |                                  ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:370:31: note: expanded from macro 'rb_data_object_get'
+  370 | #define rb_data_object_get    RUBY_MACRO_SELECT(rb_data_object_get_2, RUBY_UNTYPED_DATA_WARNING)
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:50:35: note: expanded from macro 'RUBY_MACRO_SELECT'
+   50 | #define RUBY_MACRO_SELECT(x, y)   RBIMPL_MACRO_SELECT(x, y)
+      |                                   ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:49:35: note: expanded from macro 'RBIMPL_MACRO_SELECT'
+   49 | #define RBIMPL_MACRO_SELECT(x, y) x ## y
+      |                                   ^
+<scratch space>:202:1: note: expanded from here
+  202 | rb_data_object_get_1
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:368:31: note: expanded from macro 'rb_data_object_get_1'
+  368 | #define rb_data_object_get_1  rb_data_object_get_warning
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:317:1: note: 'rb_data_object_get_warning' has been explicitly marked deprecated here
+  317 | RBIMPL_ATTRSET_UNTYPED_DATA_FUNC()
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:47:5: note: expanded from macro 'RBIMPL_ATTRSET_UNTYPED_DATA_FUNC'
+   47 |     RBIMPL_ATTR_DEPRECATED(("by TypedData"))
+      |     ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/attr/deprecated.h:36:53: note: expanded from macro 'RBIMPL_ATTR_DEPRECATED'
+   36 | # define RBIMPL_ATTR_DEPRECATED(msg) __attribute__((__deprecated__ msg))
+      |                                                     ^
+nokogumbo.c:587:3: warning: 'rb_data_object_get_warning' is deprecated: by TypedData [-Wdeprecated-declarations]
+  587 |   Data_Get_Struct(node, xmlNode, xml_node);
+      |   ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:278:34: note: expanded from macro 'Data_Get_Struct'
+  278 |     ((sval) = RBIMPL_CAST((type*)rb_data_object_get(obj)))
+      |                                  ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:370:31: note: expanded from macro 'rb_data_object_get'
+  370 | #define rb_data_object_get    RUBY_MACRO_SELECT(rb_data_object_get_2, RUBY_UNTYPED_DATA_WARNING)
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:50:35: note: expanded from macro 'RUBY_MACRO_SELECT'
+   50 | #define RUBY_MACRO_SELECT(x, y)   RBIMPL_MACRO_SELECT(x, y)
+      |                                   ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:49:35: note: expanded from macro 'RBIMPL_MACRO_SELECT'
+   49 | #define RBIMPL_MACRO_SELECT(x, y) x ## y
+      |                                   ^
+<scratch space>:203:1: note: expanded from here
+  203 | rb_data_object_get_1
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:368:31: note: expanded from macro 'rb_data_object_get_1'
+  368 | #define rb_data_object_get_1  rb_data_object_get_warning
+      |                               ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:317:1: note: 'rb_data_object_get_warning' has been explicitly marked deprecated here
+  317 | RBIMPL_ATTRSET_UNTYPED_DATA_FUNC()
+      | ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/core/rdata.h:47:5: note: expanded from macro 'RBIMPL_ATTRSET_UNTYPED_DATA_FUNC'
+   47 |     RBIMPL_ATTR_DEPRECATED(("by TypedData"))
+      |     ^
+/opt/homebrew/Cellar/ruby/4.0.2/include/ruby-4.0.0/ruby/internal/attr/deprecated.h:36:53: note: expanded from macro 'RBIMPL_ATTR_DEPRECATED'
+   36 | # define RBIMPL_ATTR_DEPRECATED(msg) __attribute__((__deprecated__ msg))
+      |                                                     ^
+3 warnings and 1 error generated.
+make: *** [nokogumbo.o] Error 1
+make: *** Waiting for unfinished jobs....
+1 warning generated.
+
+make failed, exit code 2

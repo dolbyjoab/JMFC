@@ -1,11 +1,26 @@
 ---
-layout: default
-modal-id: 8
-date: 2014-07-15
-img: kervens.png
-alt: image-alt
-project-date: June 2024
-client: 
-category: Player, Midfielder
-description: By day, he unravels the mind's mysteries with a passion for psychology. But when the suit comes off, you might find him on the soccer field or hosting Dokodenn.
+layout: player
+title: Kervens
+permalink: /players/kervens/
+modal-id: 4
+date: 2026-04-13
+img: kervens.jpeg
+alt: Kervens aka Mino
+number: 7
+position: FTop Striker / Forward
+stats: "PAC 90 · SHO 81 · PASS 71 · DRI 89 · PHY 82"
+goal: "Orchestrate the offense and turn every possession into a clinical finish."
 ---
+
+## About Kervens
+Kervens is the playmaker who makes the team tick. He reads the game early, unlocks defenses with precision passes, and knows how to drive momentum from the middle of the park.
+
+### Club role
+Kervens pulls the strings for Jolly Minou FC’s frontline. More than just a goal-scorer, he is the vital link between the midfield and the attack. With his elite 90 Pace and 92 Agility, he sets the tempo of every counter-attack, producing the clinical movement and key passes that turn half-chances into goals. When Noel is on the ball, he isn't just playing the game—he's directing it.
+- Playstyle: Creative Finisher / False 9
+- Key Strength: Explosive Agility and Positioning
+- Specialty: Counter-Attack Catalyst
+
+### Career highlights
+- 95 High Performance Rating: Consistently ranked as one of the most clinical forwards in the league.
+- Speedster Specialist: Renowned for stretching defenses with 90 Pace.

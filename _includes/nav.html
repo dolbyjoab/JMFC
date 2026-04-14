@@ -1,7 +1,6 @@
 <!-- Navigation -->
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
-    <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header page-scroll">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
         <span class="sr-only">Toggle navigation</span>
@@ -12,21 +11,24 @@
       <a class="navbar-brand" href="#page-top">{{ site.title }}</a>
     </div>
 
-    <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
         <li class="hidden">
           <a href="#page-top"></a>
         </li>
         <li class="page-scroll">
-          <a href="#portfolio">Our people</a>
+          <a href="{% if page.url == '/' or page.url == '' %}#portfolio{% else %}{{ '/' | relative_url }}#portfolio{% endif %}">Roster</a>
         </li>
         <li class="page-scroll">
-          <a href="#about">About us</a>
+          <a href="{% if page.url == '/' or page.url == '' %}#leadership{% else %}{{ '/' | relative_url }}#leadership{% endif %}">Leadership</a>
         </li>
-        </ul>
+        <li class="page-scroll">
+          <a href="{% if page.url == '/' or page.url == '' %}#about{% else %}{{ '/' | relative_url }}#about{% endif %}">Club story</a>
+        </li>
+        <li class="page-scroll">
+          <a href="{% if page.url == '/' or page.url == '' %}#contact{% else %}{{ '/' | relative_url }}#contact{% endif %}">Contact</a>
+        </li>
+      </ul>
     </div>
-    <!-- /.navbar-collapse -->
   </div>
-  <!-- /.container-fluid -->
 </nav>
