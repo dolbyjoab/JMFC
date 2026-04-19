@@ -1,0 +1,28 @@
+---
+layout: player
+title: Babas
+permalink: /players/babas/
+modal-id: 20
+date: 2026-04-19
+img: babas.jpeg
+alt: Babas in the team photo
+number: 04
+position: (FWD) Forward
+stats: "PAC 90 · SHO 81 · DRI 89 · PHY 82"
+goal: "To redefine the attack with relentless speed and clinical execution."
+description: Babas is a high-performance forward for Jolly Minou FC, a dynamic force on the pitch known for his ability to exploit space and dominate one-on-one scenarios.
+---
+
+## About Babas
+Wearing the iconic **#04**, Babas is a player who thrives on the big stage. Standing at 5'8", he combines a low center of gravity with elite **90 Pace**, making him a constant threat to break behind the opposition's defensive line. He believes that every touch should have a purpose, moving with a directness that keeps defenders on their heels.
+
+### Club role
+Babas serves as the "Primary Spearhead" for Jolly Minou FC. With a **95 High Performance** rating, he is the focal point of the team's offensive transitions. His **89 Dribbling** allows him to navigate tight windows in the final third, while his **82 Physicality** ensures he can hold his ground against larger markers to deliver his **81 Shooting** with precision.
+
+- Playstyle: Explosive Attacker / Advanced Forward
+- Key Strength: Rapid Acceleration and Close Ball Control
+- Specialty: Breakaway Specialist
+
+### Career highlights
+- **Elite Attacking Metrics:** Consistently ranked as one of the most dangerous players in the squad, boasting top-tier ratings in pace and technical dribbling.
+- **High-Performance Status:** Recognized as a "Top Striker" for his ability to deliver match-winning performances under pressure.

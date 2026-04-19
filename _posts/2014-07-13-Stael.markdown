@@ -1,0 +1,28 @@
+---
+layout: player
+title: Stael
+permalink: /players/stael/
+modal-id: 18
+date: 2026-04-19
+img: stael.jpeg
+alt: Stael in the team photo
+number: 25
+position: FW (Forward)
+stats: "PAC 90 · SHO 81 · DRI 89 · PHY 82"
+goal: "To dominate the final third with explosive speed and technical brilliance."
+description: Stael is a high-performance forward for Jolly Minou FC, known for his ability to turn half-chances into game-defining goals through sheer pace and precision.
+---
+
+## About Stael
+Wearing the **#25**, Stael is a dynamic attacking force. Standing at 5'8", he utilizes a low center of gravity and an elite **90 Pace** rating to exploit even the smallest gaps in the opposition's defense. He believes that the best forwards are those who can maintain technical control at high speeds, a philosophy he demonstrates every time he touches the ball.
+
+### Club role
+Stael serves as the "Tactical Finisher" for Jolly Minou FC. With a **95 High Performance** rating, he is a primary outlet for the team's creative playmakers. His **89 Dribbling** allows him to navigate through crowded penalty areas, while his **82 Physicality** ensures he can hold his own against larger defenders to get his **81 Shooting** power on target.
+
+- Playstyle: Explosive Attacker / Advanced Forward
+- Key Strength: Rapid Acceleration and Close Ball Control
+- Specialty: One-on-One Dominance
+
+### Career highlights
+- **Elite Speedster:** Consistently ranks as one of the most dangerous players on the break with a **90 Pace** attribute.
+- **High-Performance Reliability:** Holds a top-tier rating reflecting his consistency and clinical nature in front of the goal.

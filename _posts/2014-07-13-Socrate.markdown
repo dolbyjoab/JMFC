@@ -2,7 +2,7 @@
 layout: player
 title: Socrate
 permalink: /players/socrate/
-modal-id: 9
+modal-id: 6
 date: 2026-04-13
 img: socrate.jpeg
 alt: Socrate

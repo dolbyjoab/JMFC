@@ -1,0 +1,27 @@
+---
+layout: player
+title: Marcus
+permalink: /players/marcus/
+modal-id: 11
+date: 2026-04-13
+img: marcus.jpeg
+alt: Marcus in the team photo
+number: 07
+position: AM (Attacking Midfielder)
+stats: "PAS 80 · DRI 81 · PHY 72"
+goal: "Control the final third with technical finesse and sharp decision-making to unlock opponent defenses."
+---
+
+## About Marcus
+Marcus is a dynamic playmaker known for his agility and vision on the pitch. Standing at 5'7", he utilizes his low center of gravity to weave through defensive lines and maintain possession under heavy pressure. He believes that the best attacking football is played with rhythm and intelligence, focusing on finding the small pockets of space that others overlook.
+
+### Club role
+Marcus serves as a "Creative Engine" for Jolly Minou FC. Operating in the hole behind the strikers, his 81 Dribbling allows him to carry the ball forward and draw defenders out of position, creating lanes for his teammates. With an 80 Passing rating, he is a primary distributor in the final third, specializing in quick link-up play and finding the decisive pass into the box.
+
+- Playstyle: Technical Playmaker / Shadow Striker
+- Key Strength: Agility and Tactical Positioning
+- Specialty: Final Third Distribution
+
+### Career highlights
+- Technical Versatility: Noted for his high football IQ, allowing him to adapt his role based on the flow of the match.
+- Midfield Spark: Boasts high performance ratings in dribbling and passing, making him a consistent threat in every offensive transition.

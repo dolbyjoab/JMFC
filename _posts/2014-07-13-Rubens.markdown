@@ -1,0 +1,28 @@
+---
+layout: player
+title: Rubens
+permalink: /players/rubens/
+modal-id: 19
+date: 2026-04-19
+img: rubens.jpeg
+alt: Rubens in the team photo
+number: 24
+position: FW (Forward)
+stats: "PAC 90 · SHO 81 · DRI 89 · PHY 82"
+goal: "To dominate the attacking line with unmatched agility and clinical precision."
+description: Rubens is a high-performance forward for Jolly Minou FC, a dynamic attacking threat known for his ability to slice through defenses and deliver under pressure.
+---
+
+## About Rubens
+Wearing the **#24**, Rubens is a versatile and explosive presence in the final third. Standing at 5'8", he utilizes a low center of gravity and an elite **90 Pace** rating to outmaneuver defenders in tight spaces. He believes that a true forward must be as smart as they are fast, focusing on the tactical movement that creates space for the entire team.
+
+### Club role
+Rubens serves as the "Technical Spearhead" for Jolly Minou FC. With a **95 High Performance** rating, he is a primary creator and finisher, often linking up with the midfield to launch rapid attacks. His **89 Dribbling** makes him a nightmare for fullbacks, while his **82 Physicality** ensures he can hold the ball effectively before finding the back of the net with his **81 Shooting**.
+
+- Playstyle: Technical Forward / Creative Attacker
+- Key Strength: Rapid Acceleration and Close Control
+- Specialty: One-on-One Dominance
+
+### Career highlights
+- **Elite Performance Rating:** Recognized as a top-tier attacker within the squad, boasting consistent ratings across pace and ball control.
+- **Dynamic Playmaker:** Known for his ability to transition from a dribbler to a clinical finisher in a single motion.

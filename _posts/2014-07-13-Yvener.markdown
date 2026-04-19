@@ -1,0 +1,28 @@
+---
+layout: player
+title: Yvener
+permalink: /players/yvener/
+modal-id: 23
+date: 2026-04-19
+img: yvener.jpeg
+alt: Yvener in the team photo
+number: 08
+position: FW (Forward)
+stats: "PAC 90 · SHO 81 · DRI 89 · PHY 82"
+goal: "To lead the line with explosive power and clinical technical precision."
+description: Yvener is a high-performance forward for Jolly Minou FC, a dynamic threat known for his ability to overpower defenses with speed and strength.
+---
+
+## About Yvener
+Wearing the **#08**, Yvener is an imposing presence in the final third. Standing at 5'8", he possesses a rare combination of elite **90 Pace** and **82 Physicality**, allowing him to both outrun and outmuscle his markers. He believes that a forward must be the ultimate competitor, fighting for every inch of grass to secure a goal for the club.
+
+### Club role
+Yvener serves as the "Physical Spearhead" for Jolly Minou FC. With a **95 High Performance** rating, he is the engine of the attack, often tasked with holding up play before turning to strike. His **89 Dribbling** makes him lethal in tight spaces, while his **81 Shooting** ensures that any glimpse of the goal results in a dangerous attempt on target.
+
+- Playstyle: Power Forward / Complete Attacker
+- Key Strength: Physical Dominance and Explosive Speed
+- Specialty: Goal-Scoring Target Man
+
+### Career highlights
+- **Elite Performance Rating:** Recognized as one of the top attackers in the squad with consistent high-level performance across all attacking metrics.
+- **Dynamic Threat:** Features a balanced statistical profile that makes him effective as both a solo striker and a link-up player.

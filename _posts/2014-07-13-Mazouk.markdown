@@ -1,0 +1,28 @@
+---
+layout: player
+title: MAZOUK
+permalink: /players/mazouk/
+modal-id: 17
+date: 2026-04-19
+img: mazouk.jpeg
+alt: Mazouk in the team photo
+number: 23
+position: FW (Forward)
+stats: "PAC 90 · SHO 81 · DRI 89 · PHY 82"
+goal: "To break through defensive lines with raw speed and elite ball control."
+description: Mazouk is an explosive attacking force for Jolly Minou FC, a high-performance forward who thrives on stretching the pitch and creating scoring opportunities out of nothing.
+---
+
+## About Mazouk
+Wearing the **#16**, Mazouk is a dynamic forward who plays the game with incredible intensity. Standing at 5'8", he combines a low center of gravity with elite **90 Pace**, making him nearly impossible to catch once he finds a gap in the defense. He believes that speed is only as good as the control behind it, which is why he prides himself on his technical finesse.
+
+### Club role
+Mazouk acts as the "Vertical Threat" for Jolly Minou FC. With a **95 High Performance** rating, he is the primary target for the team's creative midfielders. His **89 Dribbling** allows him to navigate through crowded penalty areas, while his **82 Physicality** ensures he can hold off strong defenders to get his **81 Shooting** power on target.
+
+- Playstyle: Explosive Attacker / Vertical Threat
+- Key Strength: Rapid Acceleration and Tactical Dribbling
+- Specialty: One-on-One Finisher
+
+### Career highlights
+- **Elite Speedster:** Consistently ranked as one of the fastest players on the squad with a **90 Pace** attribute.
+- **Technical Mastery:** Boasts a high performance rating, reflecting his ability to maintain ball control at top speeds during critical match moments.

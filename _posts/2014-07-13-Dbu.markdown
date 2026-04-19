@@ -1,0 +1,27 @@
+---
+layout: player
+title: DBU
+permalink: /players/dbu/
+modal-id: 8
+date: 2026-04-13
+img: dbu.jpeg
+alt: DBU in the team photo
+number: 21
+position: WNG (Winger)
+stats: "DIV 91 · RCF 83 · PHY 75"
+goal: "To dominate the wings with technical precision and physical presence while maintaining a high defensive work rate."
+---
+
+## About DBU
+BDU is a unique presence on the Jolly Minou FC flanks. Standing at an imposing 6'3", he defies the traditional winger mold by combining great height with the agility required for wide play. He believes that his physical stature is his greatest asset, allowing him to win aerial battles and shield the ball in ways smaller wingers cannot.
+
+### Club role
+BDU serves as a specialized "Wide Target Man" for Jolly Minou FC. His 91 Diving (likely representing his ability to get low for headers or acrobatic touches) and 83 RCF (Technical Flair) make him a constant threat during set pieces and crosses. He acts as a physical anchor on the wing, capable of bullying fullbacks and providing a reliable outlet for long clearances from Bako.
+
+- Playstyle: Wide Target Man / Power Winger
+- Key Strength: Aerial Dominance and Physicality
+- Specialty: Set-Piece Target
+
+### Career highlights
+- Physical Outlier: At 6'3", he is one of the tallest wingers in the league, providing a unique tactical advantage.
+- Defensive Contribution: His 75 Physicality ensures he is just as effective tracking back to help the defense as he is moving forward.

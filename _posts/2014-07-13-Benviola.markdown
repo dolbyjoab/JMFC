@@ -1,0 +1,27 @@
+---
+layout: player
+title: Benviola
+permalink: /players/benviola/
+modal-id: 12
+date: 2026-04-13
+img: benviola.jpeg
+alt: Benviola in the team photo
+number: 05
+position: WNG (Winger)
+stats: "PAC 85 · DEF 79 · PHY 76"
+goal: "Provide elite defensive coverage on the flanks while serving as a powerful engine for counter-attacks."
+---
+
+## About Benviola
+Benviola is a modern, high-work-rate winger who prides himself on his versatility. Standing at 5'11", he brings a rare combination of explosive speed and defensive grit to the Jolly Minou FC lineup. He believes that a true winger's job starts at the back, using his physicality to shut down opponents before launching lightning-fast transitions down the sideline.
+
+### Club role
+Benviola acts as the "Defensive Specialist" of the frontline. While most wingers focus solely on the attack, Benviola’s 79 Defense rating makes him an essential part of the team's press. He often drops back to support the backline, using his 85 Pace to track back and recover possession before driving the team forward with his 76 Physicality.
+
+- Playstyle: Defensive Winger / Box-to-Box Threat
+- Key Strength: Recovery Pace and Defensive Positioning
+- Specialty: High-Press Initiator
+
+### Career highlights
+- Two-Way Dominance: Renowned for having some of the highest defensive and physical stats among the club's wide players.
+- Reliable Engine: A consistent performer with an 85 Pace rating that allows him to dominate the entire length of the pitch for 90 minutes.

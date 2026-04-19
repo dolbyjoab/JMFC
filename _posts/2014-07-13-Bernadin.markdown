@@ -1,0 +1,28 @@
+---
+layout: player
+title: Bernadin
+permalink: /players/bernadin/
+modal-id: 15
+date: 2026-04-13
+img: bernadin.jpeg
+alt: Bernadin aka Mino
+number: 18
+position: TS (Top Striker)
+stats: "PAC 92 · SHO 82 · PAS 78 · DRI 86 · PHY 72"
+goal: "To be the clinical edge of Jolly Minou FC, turning every opportunity into a goal."
+description: Bernadin is a high-performance striker who combines explosive pace with the technical poise required to dominate the final third.
+---
+
+## About Bernadin
+Wearing the **#18**, Bernadin is a pure goal-scoring threat. Standing at 5'9", he relies on a lethal combination of **92 Pace** and **86 Dribbling** to navigate through defensive lines. He plays with a "forward-thinking" mindset, always calculating the quickest path to the back of the net.
+
+### Club role
+Bernadin is the "Clinical Finisher" for Jolly Minou FC. While the midfielders pull the strings, Bernadin is the one who snaps the trap shut. His **82 Shooting** rating ensures that he is dangerous from both inside and outside the box, while his speed makes him the ideal target for long balls and quick counter-attacks.
+
+- Playstyle: Advanced Forward / Poacher
+- Key Strength: Rapid Acceleration and Clinical Finishing
+- Specialty: One-on-One Specialist
+
+### Career highlights
+- **Speed Merchant:** One of the fastest attacking threats in the squad, consistently clocking elite sprint speeds during matches.
+- **Top Tier Performance:** Holds a **95 High Performance** rating, reflecting his status as one of the club's most reliable scoring options.

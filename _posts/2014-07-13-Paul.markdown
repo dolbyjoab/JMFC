@@ -1,0 +1,27 @@
+---
+layout: player
+title: Paul
+permalink: /players/paul/
+modal-id: 10
+date: 2026-04-13
+img: paul.jpeg
+alt: Paul in the team photo
+number: 19
+position: AM (Attacking Midfielder)
+stats: "PAS 83 · DRI 81 · PHY 73"
+goal: "Master the midfield with technical balance and provide the steady creative link that connects the squad."
+---
+
+## About Paul
+Paul is a composed technical presence who brings balance to the high-pressure environment of the midfield. Standing at 5'8", he possesses the agility and ball control to navigate through tight defensive blocks with ease. He believes that effective football is built on consistency and timing, and he prides himself on maintaining the team’s shape while under pressure.
+
+### Club role
+Paul acts as a "Reliable Link" within the Jolly Minou FC midfield engine. While the more aggressive attackers push forward, Paul uses his 83 Passing to ensure the ball is distributed accurately and safely. His 81 Dribbling makes him an expert at maintaining possession in the center of the park, effectively bridging the gap between the defense and the frontline.
+
+- Playstyle: Balanced Playmaker / Central Link
+- Key Strength: Ball Retention and Consistent Distribution
+- Specialty: Midfield Connectivity
+
+### Career highlights
+- Technical Stability: Known for his high football IQ and the ability to maintain composure during critical match transitions.
+- Balanced Performance: Features strong, consistent ratings in passing and dribbling, making him an essential component of the starting eleven.

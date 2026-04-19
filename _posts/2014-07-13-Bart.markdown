@@ -1,0 +1,27 @@
+---
+layout: player
+title: Bart
+permalink: /players/bart/
+modal-id: 9
+date: 2026-04-13
+img: bart.jpeg
+alt: Bart in the team photo
+number: 10
+position: AM (Attacking Midfielder)
+stats: "PAS 92 · DRI 89 · PHY 80"
+goal: "Orchestrate the team's vision and command the pitch with leadership and creative brilliance."
+---
+
+## About Bart
+As the wearer of the captain's armband, Bart is the strategic mind of Jolly Minou FC. Standing at 5'7", he utilizes a low center of gravity and world-class vision to control the middle of the park. He believes that a true leader doesn't just play the game but dictates its rhythm, ensuring every teammate is positioned for success.
+
+### Club role
+Bart is the ultimate "Maestro" in the midfield. With an elite 92 Passing rating, he is the primary engine for creating goal-scoring opportunities, specializing in threaded through-balls that unlock the tightest defenses. His 89 Dribbling allows him to maintain possession under heavy pressure, while his 80 Physicality ensures he can shield the ball and win key duels in the heart of the pitch.
+
+- Playstyle: Midfield General / Advanced Playmaker
+- Key Strength: Visionary Passing and Tactical Command
+- Specialty: Set-Piece Specialist and Game Orchestrator
+
+### Career highlights
+- The Perfect 10: Exemplifies the classic attacking midfielder role, combining technical flair with leadership.
+- Creative Catalyst: Boasts the highest passing accuracy in the squad at 92, making him the team's most reliable distributor.

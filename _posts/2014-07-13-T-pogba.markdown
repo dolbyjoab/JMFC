@@ -1,0 +1,28 @@
+---
+layout: player
+title: T-Pogba
+permalink: /players/t-pogba/
+modal-id: 27
+date: 2026-04-13
+img: t-pogba.jpeg
+alt: T-Pogba in the team photo
+number: 06
+position: WNG (Winger)
+stats: "PAC 85 · DEF 79 · PHY 76"
+goal: "Dominating the flanks with a blend of defensive grit and explosive power."
+description: T-Pogba is the physical heartbeat of the Jolly Minou FC wings, a versatile force who can shut down an attack just as quickly as he starts one."
+---
+
+## About Benviola
+Wearing the **#06**, T-Pogba brings a commanding presence to the pitch. Standing at 5'11", he is a modern winger who values strength and defensive responsibility as much as attacking flair. His name is a nod to a style of play defined by technical elegance backed by raw physical power.
+
+### Club role
+T-Pogba acts as the "Enforcer on the Wing" for Jolly Minou FC. With a **79 Defense** rating, he is often tasked with neutralizing the opponent's most dangerous wide players. Once he regains possession, his **85 Pace** allows him to drive the team forward, turning a defensive stand into a lethal counter-attack in seconds.
+
+- Playstyle: Power Winger / Defensive Specialist
+- Key Strength: Physical Dominance and Ball Recovery
+- Specialty: High-Press Disruptor
+
+### Career highlights
+- **Versatility King:** One of the few wingers in the league capable of elite defensive work while maintaining an **85 Pace** offensive threat.
+- **Physical Landmark:** His **76 Physicality** makes him a nightmare for defenders to dispossess once he has established his stride.

@@ -1,0 +1,27 @@
+---
+layout: player
+title: Vlad
+permalink: /players/vlad/
+modal-id: 10
+date: 2026-04-13
+img: vlad.jpeg
+alt: Vlad in the team photo
+number: 20
+position: AM (Attacking Midfielder)
+stats: "PAS 89 · DRI 86 · PHY 80"
+goal: "Master the midfield with technical elegance and provide the creative spark that ignites the attack."
+---
+
+## About Vlad
+Vlad is a technical specialist who thrives in the high-pressure environment of the midfield. Standing at 5'8", he possesses the balance and close control to navigate through crowded defenses with ease. He believes that football is a game of space and timing, and he prides himself on always being one step ahead of his marker.
+
+### Club role
+Vlad acts as a "Creative Catalyst" alongside Bart in the Jolly Minou FC midfield. While the captain dictates the overall rhythm, Vlad is the one who finds the tightest gaps with his 89 Passing. His 86 Dribbling makes him an expert at carrying the ball forward from deep positions, effectively linking the defense to the front line.
+
+- Playstyle: Creative Playmaker / Mezzala
+- Key Strength: Ball Retention and Visionary Distribution
+- Specialty: Zone-to-Zone Transition
+
+### Career highlights
+- Technical Masterclass: Renowned for his consistency, boasting near-perfect ratings in passing and ball control.
+- Reliable Anchor: Despite his attacking flair, his 80 Physicality rating allows him to battle effectively for possession in the center of the pitch.

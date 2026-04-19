@@ -2,7 +2,7 @@
 layout: player
 title: Kervens
 permalink: /players/kervens/
-modal-id: 4
+modal-id: 5
 date: 2026-04-13
 img: kervens.jpeg
 alt: Kervens aka Mino

@@ -1,0 +1,28 @@
+---
+layout: player
+title: CLEEF
+permalink: /players/cleef/
+modal-id: 16
+date: 2026-04-19
+img: cleef.jpeg
+alt: Cleef in the team photo
+number: 09
+position: FW (Forward)
+stats: "PAC 90 · SHO 81 · DRI 89 · PHY 82"
+goal: "To dismantle defenses with explosive agility and clinical striking."
+description: Cleef is a dynamic attacking force for Jolly Minou FC, combining elite speed with the physical strength to dominate the final third.
+---
+
+## About Cleef
+Wearing the **#09**, Cleef is a forward who thrives on high-intensity play. Standing at 5'8", he utilizes a low center of gravity to navigate tight spaces, but it is his **90 Pace** that makes him a constant breakaway threat. He believes that a striker's greatest weapon is unpredictability—the ability to turn a defensive clearance into a goal in a matter of seconds.
+
+### Club role
+Cleef serves as the "Agile Finisher" in the Jolly Minou FC frontline. With a **95 High Performance** rating, he is the primary target for the midfield's through-balls. His **89 Dribbling** allows him to take on multiple defenders, while his **82 Physicality** ensures he can hold his ground and shield the ball under pressure before unleashing a shot with his **81 Shooting** accuracy.
+
+- Playstyle: Explosive Forward / Technical Attacker
+- Key Strength: Rapid Acceleration and Close Control
+- Specialty: One-on-One Dominance
+
+### Career highlights
+- **Elite Athleticism:** One of the most balanced attackers in the squad, featuring top-tier ratings in pace, dribbling, and physical strength.
+- **Goal-scoring Consistency:** Recognized as a "Top Striker" within the club for his ability to deliver in high-pressure match scenarios.
